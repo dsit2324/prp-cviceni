@@ -1,0 +1,3 @@
+D:/prp-pisemka/cmake-build-debug/CMakeFiles/prp_pisemka.dir
+D:/prp-pisemka/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/prp-pisemka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
